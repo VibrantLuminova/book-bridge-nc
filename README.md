@@ -3,7 +3,7 @@
 ## Description
 Book Bridge NC is a web application designed to support a fictional non-profit literacy initiative. It informs visitors about the state of literacy across North Carolina and encourages them to take action. Visitors can explore county-level statistics in North Carolina through an interactive map and donate books to communities of their choice.
 
-Book Bridge NC was developed as a Computing for Social Good project for a course at Winston-Salem State University in Spring of 2025.
+Book Bridge NC was developed as a Computing for Social Good project for the Systems & Database Design course at Winston-Salem State University in Spring of 2025.
 
 ## Technologies Used
 * HTML, CSS, JS, PHP
